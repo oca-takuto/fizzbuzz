@@ -11,6 +11,7 @@ end
 check(1, 1)
 check(3, 'Fizz')
 check(5, 'Buzz')
+check(7, 'Jazz')
 check(15, 'FizzBuzz')
 
 puts 'テストに成功しました'
