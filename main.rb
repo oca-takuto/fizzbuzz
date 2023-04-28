@@ -1,5 +1,5 @@
 # main.rb
-require_rekative './fizzbuzz'
+require_relative './fizzbuzz'
 
 1.upto(100) do |n|
     puts fizzbuzz(n)
